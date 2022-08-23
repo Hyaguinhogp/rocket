@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "hyago@gmail.com",
+      "password": "$2a$10$4AR.kSuVmZkNNVgReEDdEuTFQ7eyE0xbnwResgROcaemz8ro.eX72",
+      "id": 1,
+      "name": "Hyaguinhogp"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Como roubar na RLCS",
+      "author": "Sypical"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Como fazer reset de qualidade",
+      "author": "Yanxz"
+    }
+  ]
+}
